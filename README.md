@@ -10,7 +10,7 @@
 
 **DURATION**:6 WEEKS
 
-**MENTOR**:NEELA SANTOS
+**MENTOR**:NEELA SANTOSH
 
 ##Automated Report Generation is the process of using software or scripts to automatically collect, analyze, and present data in the form of structured reports — without requiring manual effort each time.
 
